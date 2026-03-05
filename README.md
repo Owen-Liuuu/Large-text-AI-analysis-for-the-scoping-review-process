@@ -20,12 +20,12 @@ AI-powered validation tool for detecting fabrication in student systematic revie
 5. Dual-LLM Validator (Gemini + DeepSeek R1)
 6. Report Generator (pandas + openpyxl)
 
-🎯 What Problem Does This Solve?
+🎯 **What Problem Does This Solve**?
 The Problem:
 Medical students are assigned to write systematic reviews as coursework. Some students cheat by:
 
-Faking the literature search - Manually picking papers, then inventing a search strategy claiming those papers came from PubMed
-Fabricating extracted data - Reporting incorrect sample sizes, outcomes, or statistics from cited papers
+**Faking the literature search** - Manually picking papers, then inventing a search strategy claiming those papers came from PubMed
+**Fabricating extracted data** - Reporting incorrect sample sizes, outcomes, or statistics from cited papers
 
 Manual verification takes educators 3-5 hours per review.
 Our Solution:
