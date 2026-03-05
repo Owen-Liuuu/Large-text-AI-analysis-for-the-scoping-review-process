@@ -14,11 +14,10 @@ AI-powered validation tool for detecting fabrication in student systematic revie
 
 - **6-Module Pipeline:**
 1. Document Parser (Gemini 2.5 Flash)
-2. Programmatic Search (Biopython + PubMed API)
-3. Search Validator (Python set operations)
-4. Paper Downloader (PMC API)
-5. Dual-LLM Validator (Gemini + DeepSeek R1)
-6. Report Generator (pandas + openpyxl)
+2. Search pipeline validation (programmatic search + comparison)
+3. Paper retrieval
+4. Dual-LLM Validator (Gemini + DeepSeek R1)
+5. Report Generator (pandas + openpyxl)
 
 🎯 **What Problem Does This Solve**?
 The Problem:
