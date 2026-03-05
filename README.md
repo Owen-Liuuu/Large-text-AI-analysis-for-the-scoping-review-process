@@ -12,7 +12,7 @@ AI-powered validation tool for detecting fabrication in student systematic revie
 - 🔗 **Evidence Traceability** with hyperlinks to source papers
 - 🎓 **Educational Focus** with non-technical language for educators
 
-- **6-Module Pipeline:**
+- **5-Module Pipeline:**
 1. Document Parser (Gemini 2.5 Flash)
 2. Search pipeline validation (programmatic search + comparison)
 3. Paper retrieval
