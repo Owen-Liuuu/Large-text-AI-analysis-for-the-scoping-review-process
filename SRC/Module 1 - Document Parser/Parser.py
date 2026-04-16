@@ -1,5 +1,5 @@
-3from __future__ import annotations
-# TEST CHANGE
+from __future__ import annotations
+
 from pathlib import Path
 from typing import Any
 import hashlib
